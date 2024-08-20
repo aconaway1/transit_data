@@ -1,1 +1,18 @@
-Another
+- car_no: '106'
+  date: '2023-12-17'
+  line: reds
+- car_no: '108'
+  date: '2024-06-22'
+  line: reds
+- car_no: '55346'
+  date: '2024-08-16'
+  line: bluee
+- car_no: '696'
+  date: '2024-08-18'
+  line: reds
+- car_no: '273'
+  date: '2024-08-18'
+  line: golds
+- car_no: '180'
+  date: '2024-08-18'
+  line: redn
