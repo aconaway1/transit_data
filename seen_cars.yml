@@ -217,3 +217,6 @@
 - car_no: '999999'
   date: '2024-09-03'
   line: reds
+- car_no: '6666666'
+  date: '2024-09-03'
+  line: goldn
