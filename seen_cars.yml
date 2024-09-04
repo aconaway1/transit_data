@@ -214,15 +214,6 @@
 - car_no: '146'
   date: '2024-09-01'
   line: redn
-- car_no: '8888888'
-  date: '2024-09-04'
-  line: reds
-- car_no: '7777777'
-  date: '2024-09-04'
-  line: reds
-- car_no: '777777'
-  date: '2024-09-04'
-  line: reds
-- car_no: '88888'
+- car_no: '999999'
   date: '2024-09-04'
   line: reds
