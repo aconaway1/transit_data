@@ -229,3 +229,6 @@
 - car_no: '8000'
   date: '2024-09-11'
   line: greenw
+- car_no: '999999'
+  date: '2024-09-11'
+  line: reds
