@@ -226,24 +226,6 @@
 - car_no: '295'
   date: '2024-09-07'
   line: redn
-- car_no: '1'
+- car_no: '5666464'
   date: '2024-09-12'
-  line: bluew
-- car_no: '2'
-  date: '2024-09-12'
-  line: bluew
-- car_no: '3'
-  date: '2024-09-12'
-  line: bluee
-- car_no: '4'
-  date: '2024-09-12'
-  line: reds
-- car_no: '999999'
-  date: '2024-09-12'
-  line: reds
-- car_no: '999999'
-  date: '2024-09-12'
-  line: reds
-- car_no: '999999'
-  date: '2024-09-12'
-  line: reds
+  line: streetcar
