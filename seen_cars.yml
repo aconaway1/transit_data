@@ -244,3 +244,6 @@
 - car_no: '265'
   date: '2024-09-15'
   line: redn
+- car_no: '999999'
+  date: '2024-09-16'
+  line: reds
