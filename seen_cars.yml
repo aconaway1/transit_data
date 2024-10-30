@@ -286,12 +286,12 @@
 - car_no: '160'
   date: '2024-10-13'
   line: redn
-- car_no: '99999'
-  date: '2024-10-16'
-  line: bluee
 - car_no: '606'
   date: '2024-10-27'
   line: reds
 - car_no: '606'
   date: '2024-10-27'
   line: reds
+- car_no: '255'
+  date: '2024-10-27'
+  line: redn
